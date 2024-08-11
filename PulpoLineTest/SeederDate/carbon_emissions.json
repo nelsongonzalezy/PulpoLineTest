@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "CompanyId": 3,
+    "Description": "Initial Data 1",
+    "CarbonEmissionValues": 100.0,
+    "DateCarbonEmission": "2024-08-01T00:00:00",
+    "TypeCarbonEmission": "Type1",
+    "IsDeleted": false
+  },
+  {
+    "Id": 2,
+    "CompanyId": 3,
+    "Description": "Initial Data 2",
+    "CarbonEmissionValues": 200.0,
+    "DateCarbonEmission": "2024-08-01T00:00:00",
+    "TypeCarbonEmission": "Type2",
+    "IsDeleted": false
+  },
+  {
+    "Id": 3,
+    "CompanyId": 3,
+    "Description": "Initial Data 3",
+    "CarbonEmissionValues": 300.0,
+    "DateCarbonEmission": "2024-08-01T00:00:00",
+    "TypeCarbonEmission": "Type2",
+    "IsDeleted": false
+  },
+  {
+    "Id": 4,
+    "CompanyId": 3,
+    "Description": "Initial Data 4",
+    "CarbonEmissionValues": 100.0,
+    "DateCarbonEmission": "2024-08-01T00:00:00",
+    "TypeCarbonEmission": "Type1",
+    "IsDeleted": false
+  },
+  {
+    "Id": 5,
+    "CompanyId": 1,
+    "Description": "Initial Data 5",
+    "CarbonEmissionValues": 200.0,
+    "DateCarbonEmission": "2024-08-01T00:00:00",
+    "TypeCarbonEmission": "Type2",
+    "IsDeleted": false
+  },
+  {
+    "Id": 6,
+    "CompanyId": 1,
+    "Description": "Initial Data 6",
+    "CarbonEmissionValues": 200.0,
+    "DateCarbonEmission": "2024-08-01T00:00:00",
+    "TypeCarbonEmission": "Type2",
+    "IsDeleted": false
+  }
+]
